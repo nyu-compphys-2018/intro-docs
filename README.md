@@ -1,2 +1,2 @@
 # intro-docs
-Introductory information for Computational Physisc (fall 2018)
+Introductory Documents for Computational Physics
